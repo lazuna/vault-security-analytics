@@ -164,7 +164,7 @@ If provided, Data Link Layer may perform error detection as well. To avail of er
 	- Multiplexing,
 	- Flow control.
 
-1.4 Draw (by hand) the spectrum of the signal s(t) = 4sin(2πt) + 2sin(6πt) + 8/π sin(7πt). Also identify the absolute and effective bandwidths.
+### 1.4 Draw (by hand) the spectrum of the signal s(t) = 4sin(2πt) + 2sin(6πt) + 8/π sin(7πt). Also identify the absolute and effective bandwidths.
 The spectrum of the signal describes changes in signal's magnitude and phase as a function of frequency.
 
 Spectrum of the signal
